@@ -1,0 +1,8 @@
+.icon{
+    color: lightgray !important;
+}
+.date{
+    position: absolute;
+    top: 50px;
+    z-index: 2;
+}

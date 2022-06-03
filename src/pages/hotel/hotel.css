@@ -1,0 +1,14 @@
+.arrow{
+    margin: 20px;
+    font-size: 40px;
+    cursor: pointer;
+    color: lightgray;
+}
+.closeIcon{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 30px;
+    color: lightgray;
+    cursor: pointer;
+}
